@@ -1,6 +1,7 @@
 # Weather_gui_python_Samyak
 Going to make weather broadcasting system(gui) using python and openweather api 
 
+update*
 hey Samyak Gupta this side
 made this project using GIthub Co pilot
 
